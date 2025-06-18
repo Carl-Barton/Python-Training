@@ -90,7 +90,7 @@ for item in shopping_list:
 
 #####################################################################
 
-# While Loop Chall 6 - For vs While
+# Activity 6 - For vs While
 
 # Main objective: Print the numbers from 1 to 10 using a 'For Loop' then a 'While Loop'
 # Then answer these questions:
